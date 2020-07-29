@@ -33,7 +33,7 @@ java를 활용하여 간단한 단어장을 만들어 보고자 기획하였다.
 
 ![gamemenu](https://user-images.githubusercontent.com/65699860/88770135-50eb3180-d1b8-11ea-9570-7299dfb846b0.png)
 ![game](https://user-images.githubusercontent.com/65699860/88770181-606a7a80-d1b8-11ea-99e0-6d6b15375704.png)
-![game2](https://user-images.githubusercontent.com/65699860/88770184-61031100-d1b8-11ea-8ad4-c43adb9e66d4.png)
+![game3](https://user-images.githubusercontent.com/65699860/88774254-2d2aea00-d1be-11ea-91d1-cf197d8f1159.png)
 
 ### 개발 환경 설정
 
